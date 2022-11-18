@@ -42,7 +42,7 @@
 	@include button-variant(
 		$background: $primary,
 		$border: $primary-light,
-		$hover-background: lighten($primary-li, 1%),
+		$hover-background: lighten($primary-light, 1%),
 		$hover-border: $primary-light,
 		$active-background: lighten($primary, 1%),
 		$active-border: darken($primary, 12.5%)
